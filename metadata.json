@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Cultural Event Registration System",
+  "description": "A modern and visually appealing frontend prototype for a Cultural Event Registration System. This React application showcases a list of cultural events, detailed event views, and a user registration form. Please note: This is a frontend-only implementation using React and Tailwind CSS, as requested by the user's topic. It does not include the Python backend or SQL database mentioned in the prompt, as the development environment is configured for React/TypeScript.",
+  "requestFramePermissions": []
+}
